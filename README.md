@@ -1,5 +1,5 @@
-# WTdelineator
-Wavelet-based ECG delineator library implemented in python
+# ECG Feature Extractor
+Wavelet-based ECG delineator and feature extractor library implemented in python. 
 
 The library required to perform ECG delineation is provided, along with instructions of use, in WTdelineator.py. This implementation is based on the work: Martínez, Juan Pablo, et al. "A wavelet-based ECG delineator: evaluation on standard databases." IEEE transactions on biomedical engineering 51.4 (2004): 570-581.
 
